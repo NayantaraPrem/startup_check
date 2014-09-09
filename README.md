@@ -1,4 +1,4 @@
 startup_check
 =============
 
-checking git
+checking git2
